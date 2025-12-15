@@ -1,0 +1,13 @@
+#Make changes under <server>
+
+    <server>
+      <id>maven-release</id>
+      <username>admin-username</username>
+      <password>admin-password</password>
+    </server>
+    
+    <server>
+      <id>maven-snapshots</id>
+      <username>admin-username</username>
+      <password>admin-password</password>
+    </server>
